@@ -14,10 +14,10 @@ Insert the support ticket link or the linear story link below
 <!-- 
 Add a brief description of the pr
 Try to use terminology that is not too specific to the company or the customer.
-This will help with allowing new team members contribute faster.
-This will also ensure that team members working on different customers are still able to understand the scope from the description.
+This will help with allowing new team members to contribute faster.
+This will also ensure that team members working with different customers are still able to understand the scope from the description.
 
-If you do need to use terms that are specific, add a short deffinition.
+If you do need to use specific terms, add a short definition.
 -->
 
 <!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
