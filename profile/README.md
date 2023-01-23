@@ -7,5 +7,5 @@
 [![Social](https://img.shields.io/badge/follow_on-facebook-1976D2?style=for-the-badge&logo=facebook)](<add social page>)
 -->
 
-Datateer is a company built on the idea that data is valuable and that everyone should have the ability to leverage their data to make better business decisions. Our mission `be the go-to partner for SMBs to make business impact with data`. Our primary focus is on the managed analytics platform we provide to customers, but we take that platform and strip out the proprietary resources into open source software for the community at large to take advantage of. 
+Datateer is a company built on the idea that data is valuable and that everyone should have the ability to leverage their data to make better business decisions. Our mission `be the go-to partner for SMBs to make a business impact with data`. Our primary focus is on the managed analytics platform we provide to customers, but we take that platform and strip out the proprietary resources into open-source software for the community at large to take advantage of. 
 
